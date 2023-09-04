@@ -1,6 +1,6 @@
-mocha --- Mocha is a JavaScript test framework running on Node.js .
-hardhat -- its an develpoment environment for eth.
-chai -- Chai is an assertion library that works seamlessly with Mocha (or other test frameworks) to provide expressive and flexible assertion.
+- mocha --- Mocha is a JavaScript test framework running on Node.js .
+- hardhat -- its an develpoment environment for eth.
+- chai -- Chai is an assertion library that works seamlessly with Mocha (or other test frameworks) to provide expressive and flexible assertion.
 - By using hardhat we can compile, test, debug and deploy.
 - when are testing we use mocha javascript library.
 - What is Hardhat -- Hardhat is a development environment to compile, deploy, test and debug your ethereum softwares.
