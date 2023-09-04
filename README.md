@@ -63,13 +63,9 @@ contract Token {
 - In artifacts folder we can find the ABI of our compile file under contracts folder.
 # Testing
 - To test the written smart contract we have to create an token.js file under the teset folder.
-```
-For testing smart contract we use chai library + mocha framework. (we write unit testing only in TDD approch)
-```
-```
-Mocha and Chai are widely used and effective tools for testing smart contracts. Mocha provides a framework for organizing and executing tests, while Chai offers a variety of assertion styles for making test assertions more readable and expressive. Together, Mocha and Chai provide a powerful testing solution for verifying the behavior and correctness of smart contracts.
-```
-basic testing code
+- For testing smart contract we use chai library + mocha framework. (we write unit testing only in TDD approch)
+- Mocha and Chai are widely used and effective tools for testing smart contracts. Mocha provides a framework for organizing and executing tests, while Chai offers a variety of assertion styles for making test assertions more readable and expressive. Together, Mocha and Chai provide a powerful testing solution for verifying the behavior and correctness of smart contracts.
+- basic testing code
 ```
 const{expect} = require("chai"); // for importing chai
 
